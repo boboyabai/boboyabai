@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+```
 ### 📊 My GitHub Stats
 
 <p align="center">
@@ -17,7 +17,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-
+```
 ---
 
 ### 🛠️ My Tech Stack & Tools
