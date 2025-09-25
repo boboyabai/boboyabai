@@ -23,7 +23,7 @@
 ### 🛠️ My Tech Stack & Tools
 
 <p align="center">
-  Berikut adalah beberapa teknologi dan tools yang saya kuasai:
+  Here are some of the technologies and tools I'm proficient with:
 </p>
 
 <table align="center">
@@ -53,10 +53,10 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack--tools">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <a href="https://portswigger.net/burp" target="_blank">
+        <img src="https://portswigger.net/burp/documentation/images/burp-suite-logo-512x512.png" width="48" height="48" alt="Burp Suite" />
       </a>
-      <br>Docker
+      <br>Burp Suite
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack--tools">
@@ -110,9 +110,9 @@
 ### 🌱 What I'm Currently Exploring
 
 <p align="center">
-  Saya selalu antusias untuk belajar hal-hal baru. Saat ini, saya sedang mendalami:
+  I'm always excited to learn new things. Currently, I'm diving deep into:
   <br/><br/>
-  <img src="https://img.shields.io/badge/Immersive%20Multimedia-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJDNi40OCA MiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDh6bS0xLTQtMiAyIDQgNCA0LTQgMi0yLTEuNDEtMS40MUwxMyAxMy4xN1Y3aC0ydiZteiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==" alt="Immersive Multimedia"/>
+  <img src="https://img.shields.io/badge/Immersive%20Multimedia-8A2BE2?style=for-the-badge" alt="Immersive Multimedia"/>
   <img src="https://img.shields.io/badge/Offensive%20Cybersecurity-DC143C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Offensive Cybersecurity"/>
   <img src="https://img.shields.io/badge/AI%20Utilization-00BFFF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Utilization"/>
 </p>
@@ -122,7 +122,7 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  Jangan ragu untuk menghubungi saya. Mari berdiskusi atau berkolaborasi!
+  Feel free to reach out. Let's talk, collaborate, or connect!
   <br/><br/>
   <a href="[YOUR_TWITTER_PROFILE_LINK]" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter Profile"/>
