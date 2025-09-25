@@ -17,7 +17,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,python,bash,burp,docker,git,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=kali,python,bash,docker,git,linux,postman" />
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   </a>
 </p>
 
@@ -36,9 +39,10 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="[YOUR_TWITTER_PROFILE_LINK]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter Profile" height="30" width="40" /></a>
-  
+  <a href="[YOUR_TWITTER_PROFILE_LINK]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter Profile"/>
+  </a>
   <a href="mailto:[YOUR_EMAIL_ADDRESS]" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Your Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Email"/>
   </a>
 </p>
