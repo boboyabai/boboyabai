@@ -1,31 +1,29 @@
 <p align="center">
-  <img src="[LINK_KE_GIF_ATAU_GAMBAR_HEADER_ANDA]" alt="Hi there!" width="600"/>
+  <img src="[YOUR_HEADER_IMAGE_LINK]" alt="Hi there!" width="600"/>
 </p>
 
 <div id="user-content-toc" align="center">
-  <h1 align="center">Hi 👋, Saya Boboyabai</h1>
+  <h1 align="center">Hi 👋, I'm Boboyabai</h1>
   <h3 align="center">Nobody</h3>
   <p align="center">
-    Sangat menghargai Kebebasan<br/>
+    Passionate about Freedom<br/>
     Decentralized
   </p>
 </div>
 
 ---
 
-### 🛡️ Keahlian & Teknologi Saya (My Skills & Tech Stack)
-
-Di bawah ini adalah beberapa teknologi dan alat yang sering saya gunakan:
+### 🛡️ My Skills & Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,python,bash,burpsuite,docker,git,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=kali,python,bash,burp,docker,git,linux,postman" />
   </a>
 </p>
 
 ---
 
-### 🔭 Hal yang Sedang Saya Eksplorasi (Currently Exploring)
+### 🔭 Currently Exploring
 
 <p align="center">
   <img src="https://img.shields.io/badge/Immersive%20Multimedia-8A2BE2?style=for-the-badge" alt="Immersive Multimedia"/>
@@ -35,11 +33,12 @@ Di bawah ini adalah beberapa teknologi dan alat yang sering saya gunakan:
 
 ---
 
-### 🔗 Hubungi Saya (Let's Connect)
-
-Anda bisa menemukan saya di sini:
+### 🔗 Let's Connect
 
 <p align="center">
-  <a href="[LINK_PROFIL_TWITTER_ANDA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Profil Twitter Anda" height="30" width="40" /></a>
-  <a href="mailto:[ALAMAT_EMAIL_ANDA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Anda" height="30" width="40" /></a>
+  <a href="[YOUR_TWITTER_PROFILE_LINK]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter Profile" height="30" width="40" /></a>
+  
+  <a href="mailto:[YOUR_EMAIL_ADDRESS]" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Your Email"/>
+  </a>
 </p>
