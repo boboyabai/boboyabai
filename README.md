@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="[YOUR_HEADER_IMAGE_LINK]" alt="Banner Boboyabai" width="800"/>
+  <img src="\icon\banner.png" alt="Banner Boboyabai" width="800"/>
   
   <h1>Hi there, I'm Boboyabai 👋</h1>
   
   <h3>A Cyber Sentinel & Digital Creator</h3>
   
-  <p>A lifelong learner exploring the crossroads of Offensive Cybersecurity, AI, and Immersive Multimedia. <br/> I believe in the power of decentralized technology to build a freer future.</p>
+  <p>A lifelong learner exploring the crossroads of Offensive Cybersecurity, AI, and Immersive Multimedia. <br/> I believe in the power of decentralized technology to build a future.</p>
 </div>
 
 ---
