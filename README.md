@@ -54,7 +54,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://portswigger.net/burp" target="_blank">
-        <img src="D:\.git_boboyabai\boboyabai\icon\burpsuite.png" width="48" height="48" alt="Burp Suite" />
+        <img src="\icon\burpsuite.png" width="48" height="48" alt="Burp Suite" />
       </a>
       <br>Burp Suite
     </td>
