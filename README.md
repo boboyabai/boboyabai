@@ -94,7 +94,7 @@
       <a href="#-my-tech-stack--tools">
         <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effect" />
       </a>
-      <br>After Effects
+      <br>After Effect
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack--tools">
