@@ -54,7 +54,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://portswigger.net/burp" target="_blank">
-        <img src="https://portswigger.net/burp/documentation/images/burp-suite-logo-512x512.png" width="48" height="48" alt="Burp Suite" />
+        <img src="D:\.git_boboyabai\boboyabai\icon\burpsuite.png" width="48" height="48" alt="Burp Suite" />
       </a>
       <br>Burp Suite
     </td>
@@ -92,7 +92,7 @@
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack--tools">
-        <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" />
+        <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effect" />
       </a>
       <br>After Effects
     </td>
